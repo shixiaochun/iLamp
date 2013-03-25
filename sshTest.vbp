@@ -1,6 +1,8 @@
 Type=Exe
-Form=main.frm
 Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#C:\WINDOWS\system32\stdole2.tlb#OLE Automation
+Reference=*\G{2A75196C-D9EB-4129-B803-931327F72D5C}#2.8#0#C:\Program Files\Common Files\system\ado\msado15.dll#Microsoft ActiveX Data Objects 2.8 Library
+Reference=*\G{00000300-0000-0010-8000-00AA006D2EA4}#2.8#0#C:\Program Files\Common Files\system\ado\msador15.dll#Microsoft ActiveX Data Objects Recordset 2.8 Library
+Form=main.frm
 IconForm="Form1"
 Startup="Form1"
 HelpFile=""
